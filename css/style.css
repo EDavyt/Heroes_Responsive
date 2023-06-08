@@ -69,6 +69,10 @@ section article .bgSuperman {
   background-image: url("../img/fondoSuperman.png");
 }
 
+section article .bgMM {
+  background-image: url("../img/mmbac.png");
+}
+
 section article img {
   border-radius: 50%;
   width: 125px;
